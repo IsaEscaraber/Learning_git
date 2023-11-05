@@ -111,7 +111,7 @@ Or just add a printscreen of the code.
 * ## EMOJIS
 This code is used in writes comment of README or issues description.
 
-The names of the emoji is the repository of ikatyang.
+The names of the emoji is the [repository](https://github.com/IsaEscaraber/Learning_git/blob/main/arquivos/emojis.md).
 
 :nome of the emoji:
 
