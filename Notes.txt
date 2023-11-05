@@ -1,0 +1,16 @@
+ISSUES = PROBLEMS, SITUATIONS
+
+- Generally the users localise and don't know how to fix;
+- First step is trying to find the problem already created by other user before to create a new issue on Github;
+-Search first of all
+- Comment the problem or try to solve and answering the others.
+- Helping people and the ower of the repository to get the solution.
+- This help is just to commenting or showing with images, links, etc...
+
+
+PULL REQUEST = COPY THE CODE
+
+- Copy the code, fix it and send to the onwer;
+- We can use fork to do that;
+- The ower of the repository can choose if will accept your correction or not;
+- If we know how to fix the issue, we can make a fork and fix the code, after send to the onwer;
