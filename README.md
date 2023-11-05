@@ -129,3 +129,9 @@ To reply someone is necessary to go on the comment > click on the ellipsis > Quo
 
 Or remove the writes of the comment and add the symbol >
 ***
+
+* ## COMPLEMENT FILE
+
+[![alttext](https://github.com/IsaEscaraber/Learning_git/assets/60775472/1dfac490-0632-47cb-bd59-e2b06038a5e4)](https://github.com/IsaEscaraber/Learning_git/tree/main/image)
+
+[guia-markdown.pdf](https://github.com/IsaEscaraber/Learning_git/files/13260267/guia-markdown.pdf)
