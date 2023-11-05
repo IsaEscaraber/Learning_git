@@ -67,7 +67,7 @@ format need to be pnj or jpeg;
 
 upload the img (Add images is simple, need to drag to the write comment of the issue or to the code of Readme).
 
-![write the description of the img inside the bracket](url)
+`![write the description of the img inside the bracket and the url inside the parenthesis](url)`
 
 ![md](https://github.com/IsaEscaraber/Learning_git/assets/60775472/4e5d1f6f-ef98-44cf-a0b1-4a1093543e75)
 
