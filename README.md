@@ -1,4 +1,4 @@
-# Learning_git
+# Learning_git com Prof. Gustavo Guanabara
 
 The first repository of the Git and Github course;
 
