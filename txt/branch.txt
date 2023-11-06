@@ -1,15 +1,15 @@
 BRANCH = ramos
 
--MASTER is the main branch, like a tree trunk;
--Look like a tree;
--Commit is a new version, everytime when to commit in the master is created a version, it means to saving in a local repository;
--After that, needed to make a push to send from the local to the remote repository;
--ORIGIN is a backup in the remote repository (github);
--Must to avoid to commit only in a master branck;
+- MASTER is the main branch, like a tree trunk;
+- Look like a tree;
+- Commit is a new version, everytime when to commit in the master is created a version, it means to saving in a local repository;
+- After that, needed to make a push to send from the local to the remote repository;
+- ORIGIN is a backup in the remote repository (github);
+- Must to avoid to commit only in a master branck;
 - The ideal is to created a new branch to add a new feature, because it is risk to save in the main branch, that is a master, it can be irreversible;
--Need to create a new branch to each feature, ex: design, back, front...;
--During the creation af the feature in each branch, will be necessary some commits, but it won't be on the master;
--For that is necessary to make a merge;
--MERGE is a unification of the information between the new branch to the master branch;
--New branchs can be deleted normally;
--If some conflicts appear, the github will warn automatically before the merge;
+- Need to create a new branch to each feature, ex: design, back, front...;
+- During the creation af the feature in each branch, will be necessary some commits, but it won't be on the master;
+- For that is necessary to make a merge;
+- MERGE is a unification of the information between the new branch to the master branch;
+- New branchs can be deleted normally;
+- If some conflicts appear, the github will warn automatically before the merge;
